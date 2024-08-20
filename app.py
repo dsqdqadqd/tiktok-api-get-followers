@@ -4,10 +4,10 @@ import csv
 
 # Get your API key here: https://scraptik.com
 
-scraptik_apikey = "ENTER API KEY HERE"
+scraptik_apikey = "6ad9348cfemsh7f79233a793a770p1c0076jsnaaa15f224661"
 
 #Use Scraptik "Username to ID" under Services if you need to look it up
-user_id = "ENTER USER ID HERE"
+user_id = "anas_80z"
 
 fieldnames = [
     'unique_id',
